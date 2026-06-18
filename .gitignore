@@ -1,0 +1,10 @@
+.env.local
+node_modules/
+*.log
+npm-debug.log*
+.DS_Store
+.expo/
+.expo-shared/
+dist/
+.env
+.env.*.local
